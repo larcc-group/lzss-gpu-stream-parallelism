@@ -1,0 +1,104 @@
+2018-11-10 11:13:13.692706: Dataset /home/charles/dataset/linux/linux.tar
+2018-11-10 11:13:13.692759: Repetitions 5
+2018-11-10 11:13:13.793981: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:13:47.306621: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:14:22.062870: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:14:54.083538: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:15:15.172048: PROGRESSO: 10.00
+2018-11-10 11:15:15.172314: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:15:49.662006: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:16:24.967382: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:16:56.807187: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:17:17.401213: PROGRESSO: 20.00
+2018-11-10 11:17:17.401478: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:17:51.029436: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:18:26.929801: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:18:57.836437: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:19:19.038567: PROGRESSO: 30.00
+2018-11-10 11:19:19.038834: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:19:51.614132: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:20:27.016856: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:20:57.895530: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:21:18.850546: PROGRESSO: 40.00
+2018-11-10 11:21:18.850816: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:21:51.245323: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:22:27.003861: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:22:58.155827: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:23:19.370957: PROGRESSO: 50.00
+2018-11-10 11:23:19.371224: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:23:52.125166: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:24:27.474255: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:24:59.785212: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:25:20.733163: PROGRESSO: 60.00
+2018-11-10 11:25:20.733435: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:25:53.377306: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:26:29.194862: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:27:00.446666: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:27:21.622030: PROGRESSO: 70.00
+2018-11-10 11:27:21.622297: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:27:54.431535: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:28:29.808635: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:29:00.874907: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:29:21.633943: PROGRESSO: 80.00
+2018-11-10 11:29:21.634211: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:29:55.903555: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:30:32.846057: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:31:05.097559: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:31:26.213289: PROGRESSO: 90.00
+2018-11-10 11:31:26.213552: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:31:59.147696: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:32:34.383103: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:33:05.093708: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:33:26.266875: PROGRESSO: 100.00
+2018-11-10 11:33:26.353330: Dataset /home/charles/dataset/silesia.tar
+2018-11-10 11:33:26.353376: Repetitions 5
+2018-11-10 11:33:26.353617: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:33:37.766385: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:33:50.045957: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:34:01.006310: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:34:09.724261: PROGRESSO: 10.00
+2018-11-10 11:34:09.724528: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:34:21.080794: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:34:33.578348: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:34:43.866068: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:34:52.348109: PROGRESSO: 20.00
+2018-11-10 11:34:52.348378: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:35:04.114775: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:35:17.092266: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:35:27.528037: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:35:36.264964: PROGRESSO: 30.00
+2018-11-10 11:35:36.265233: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:35:47.826174: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:35:59.710701: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:36:09.671992: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:36:18.438729: PROGRESSO: 40.00
+2018-11-10 11:36:18.438997: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:36:29.662845: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:36:42.401224: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:36:52.762172: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:37:01.704377: PROGRESSO: 50.00
+2018-11-10 11:37:01.704647: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:37:12.920987: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:37:25.208327: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:37:35.110621: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:37:44.161637: PROGRESSO: 60.00
+2018-11-10 11:37:44.161907: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:37:55.585512: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:38:07.665842: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:38:18.310112: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:38:26.944119: PROGRESSO: 70.00
+2018-11-10 11:38:26.944388: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:38:38.059282: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:38:50.248276: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:39:00.341422: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:39:08.384522: PROGRESSO: 80.00
+2018-11-10 11:39:08.384787: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-11-10 11:39:19.979032: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-11-10 11:39:32.452668: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-11-10 11:39:43.194542: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-11-10 11:39:51.872592: PROGRESSO: 90.00
+2018-11-10 11:39:51.872866: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-11-10 11:40:02.981826: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-11-10 11:40:14.901694: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-11-10 11:40:24.992115: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-11-10 11:40:33.713063: PROGRESSO: 100.00

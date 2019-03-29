@@ -1,0 +1,983 @@
+2018-10-25 08:24:28.562868: Dataset /home/charles/dataset/silesia.tar
+2018-10-25 08:24:28.562923: Repetitions 5
+2018-10-25 08:24:28.667981: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 08:24:38.827737: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 08:24:51.649406: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 08:25:00.051439: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 08:25:08.143773: PROGRESSO: 5.00
+2018-10-25 08:25:08.144051: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 08:25:19.219079: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 08:25:31.756190: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 08:25:41.898373: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 08:25:50.642618: PROGRESSO: 10.00
+2018-10-25 08:25:50.642870: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 08:28:38.116421: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 08:31:28.099380: PROGRESSO: 15.00
+2018-10-25 08:31:28.099638: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 08:42:42.521063: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 08:54:00.661438: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 08:59:53.973655: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 09:05:48.989705: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 09:09:52.703878: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 09:13:54.814910: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 09:16:51.567313: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 09:19:50.438760: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 09:22:17.770453: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 09:24:47.050067: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 09:26:51.443813: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 09:28:57.802670: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 09:30:54.581599: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 09:32:54.569006: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 09:34:30.134097: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 09:36:07.169153: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 09:37:33.336433: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 09:39:01.593776: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-25 09:40:49.407759: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-25 09:42:39.898196: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-25 09:44:23.019710: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-25 09:46:08.517579: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-25 09:47:53.705595: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-25 09:49:40.294749: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-25 09:51:13.686917: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-25 09:52:49.076345: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-25 09:54:12.169956: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-25 09:55:37.204694: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-25 09:57:00.914546: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-25 09:58:26.316694: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-25 09:59:44.822976: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-25 10:01:05.027020: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-25 10:02:18.484410: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-25 10:03:34.144086: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-25 10:04:48.465299: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-25 10:06:04.578067: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-25 10:07:17.444136: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-25 10:08:32.303217: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-25 10:10:16.798146: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-25 10:12:03.430979: PROGRESSO: 20.00
+2018-10-25 10:12:03.431239: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 10:12:13.607840: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 10:12:26.518361: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 10:12:35.320352: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 10:12:43.639007: PROGRESSO: 25.00
+2018-10-25 10:12:43.639262: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 10:12:53.981662: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 10:13:06.642979: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 10:13:16.779034: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 10:13:25.462778: PROGRESSO: 30.00
+2018-10-25 10:13:25.463024: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 10:16:16.188958: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 10:19:05.595911: PROGRESSO: 35.00
+2018-10-25 10:19:05.596197: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 10:30:06.341079: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 10:41:12.437039: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 10:46:58.767756: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 10:52:46.972082: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 10:56:43.247007: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 11:00:37.758479: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 11:03:34.888012: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 11:06:35.626427: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 11:09:03.188736: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 11:11:32.492951: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 11:13:39.229989: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 11:15:48.794519: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 11:17:45.893523: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 11:19:44.709434: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 11:21:19.544692: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 11:22:57.358690: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 11:24:24.920231: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 11:25:54.163611: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-25 11:27:41.613382: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-25 11:29:31.257992: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-25 11:31:13.652046: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-25 11:32:58.003279: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-25 11:34:41.991353: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-25 11:36:27.873554: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-25 11:38:00.831781: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-25 11:39:35.664648: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-25 11:40:58.873141: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-25 11:42:23.860463: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-25 11:43:47.593147: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-25 11:45:12.998004: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-25 11:46:31.545423: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-25 11:47:51.841966: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-25 11:49:05.266717: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-25 11:50:20.684230: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-25 11:51:34.857059: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-25 11:52:50.998633: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-25 11:54:03.894388: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-25 11:55:18.632370: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-25 11:57:03.208147: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-25 11:58:49.660060: PROGRESSO: 40.00
+2018-10-25 11:58:49.660321: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 11:58:59.841439: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 11:59:12.630737: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 11:59:21.415677: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 11:59:29.666904: PROGRESSO: 45.00
+2018-10-25 11:59:29.667156: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 11:59:41.259883: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 11:59:53.937735: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 12:00:03.852304: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 12:00:12.574154: PROGRESSO: 50.00
+2018-10-25 12:00:12.574378: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 12:03:01.689801: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 12:05:50.956901: PROGRESSO: 55.00
+2018-10-25 12:05:50.957164: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 12:16:57.535489: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 12:28:05.401229: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 12:33:57.140853: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 12:39:48.053555: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 12:43:45.417647: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 12:47:46.199469: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 12:50:44.081360: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 12:53:44.484555: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 12:56:12.146492: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 12:58:42.201393: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 13:00:50.900729: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 13:03:01.903598: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 13:04:59.107954: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 13:06:57.526760: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 13:08:32.346901: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 13:10:09.417564: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 13:11:37.610426: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 13:13:05.597813: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-25 13:14:52.957637: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-25 13:16:42.468802: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-25 13:18:24.729684: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-25 13:20:09.037786: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-25 13:21:52.951685: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-25 13:23:39.590613: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-25 13:25:12.562586: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-25 13:26:47.456097: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-25 13:28:10.619955: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-25 13:29:35.709815: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-25 13:30:59.421171: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-25 13:32:24.855332: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-25 13:33:43.364458: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-25 13:35:03.890770: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-25 13:36:17.471746: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-25 13:37:32.807837: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-25 13:38:47.037257: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-25 13:40:03.233422: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-25 13:41:16.145928: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-25 13:42:30.858524: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-25 13:44:15.430080: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-25 13:46:01.886007: PROGRESSO: 60.00
+2018-10-25 13:46:01.886271: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 13:46:12.054169: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 13:46:24.890056: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 13:46:33.779817: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 13:46:42.351286: PROGRESSO: 65.00
+2018-10-25 13:46:42.351537: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 13:46:52.908104: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 13:47:05.755368: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 13:47:15.918829: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 13:47:24.559149: PROGRESSO: 70.00
+2018-10-25 13:47:24.559406: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 13:50:09.976912: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 13:53:00.149572: PROGRESSO: 75.00
+2018-10-25 13:53:00.149835: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 14:04:04.129251: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 14:15:10.242679: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 14:21:01.514043: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 14:26:56.430403: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 14:30:59.364832: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 14:35:04.305602: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 14:38:03.985993: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 14:41:05.867339: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 14:43:33.929108: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 14:46:04.626607: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 14:48:13.471680: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 14:50:25.554499: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 14:52:22.288354: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 14:54:20.769594: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 14:55:56.581260: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 14:57:35.169367: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 14:59:02.611910: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 15:00:32.374453: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-25 15:02:19.872456: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-25 15:04:09.436485: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-25 15:05:51.947757: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-25 15:07:36.188388: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-25 15:09:20.421830: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-25 15:11:06.542843: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-25 15:12:39.491346: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-25 15:14:14.308175: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-25 15:15:37.516305: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-25 15:17:02.511800: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-25 15:18:26.252498: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-25 15:19:51.748960: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-25 15:21:10.470486: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-25 15:22:30.676061: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-25 15:23:44.109701: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-25 15:24:59.384701: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-25 15:26:13.544549: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-25 15:27:29.685293: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-25 15:28:42.685011: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-25 15:29:57.843964: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-25 15:31:42.523342: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-25 15:33:28.571555: PROGRESSO: 80.00
+2018-10-25 15:33:28.571819: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 15:33:38.749243: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 15:33:51.400458: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 15:34:00.933436: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 15:34:09.153550: PROGRESSO: 85.00
+2018-10-25 15:34:09.153803: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 15:34:19.705592: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 15:34:32.313217: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 15:34:42.921344: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 15:34:51.528236: PROGRESSO: 90.00
+2018-10-25 15:34:51.528485: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 15:37:42.547740: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 15:40:32.732975: PROGRESSO: 95.00
+2018-10-25 15:40:32.733234: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 15:51:38.595713: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 16:02:45.943760: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 16:08:35.605380: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 16:14:29.180071: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 16:18:33.031204: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 16:22:37.554967: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 16:25:38.813566: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 16:28:41.875354: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 16:31:10.039732: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 16:33:40.867990: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 16:35:50.703051: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 16:38:01.920984: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 16:39:58.818258: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 16:41:58.136645: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 16:43:33.946832: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 16:45:11.611515: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 16:46:39.317504: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 16:48:08.250108: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-25 16:49:55.797966: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-25 16:51:45.403927: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-25 16:53:27.717448: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-25 16:55:12.180899: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-25 16:56:56.170497: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-25 16:58:42.281930: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-25 17:00:15.324603: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-25 17:01:50.190561: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-25 17:03:13.391385: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-25 17:04:38.469273: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-25 17:06:02.209183: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-25 17:07:27.773157: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-25 17:08:46.274351: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-25 17:10:06.500281: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-25 17:11:20.117326: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-25 17:12:35.492596: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-25 17:13:49.670149: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-25 17:15:05.810320: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-25 17:16:18.702195: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-25 17:17:33.444144: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-25 17:19:18.112715: CMD: -c -i /home/charles/dataset/silesia.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-25 17:21:05.188786: PROGRESSO: 100.00
+2018-10-25 19:48:29.903218: Dataset /home/charles/dataset/linux/linux.tar
+2018-10-25 19:48:29.903270: Repetitions 5
+2018-10-25 19:48:29.903542: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-10-25 19:49:01.033694: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-25 19:49:38.504239: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-25 19:50:09.992106: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-25 19:50:32.346548: PROGRESSO: 5.00
+2018-10-25 19:50:32.346793: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-10-25 19:51:03.651741: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-25 19:51:41.290273: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-25 19:52:12.124109: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-25 19:52:35.015882: PROGRESSO: 10.00
+2018-10-25 19:52:35.016167: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-25 19:59:54.146166: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-25 20:07:16.742779: PROGRESSO: 15.00
+2018-10-25 20:07:16.743039: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-25 20:45:10.463748: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-25 21:23:09.510044: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-25 21:43:48.581603: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-25 22:04:01.290311: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-25 22:17:44.851827: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-25 22:31:16.395145: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-25 22:41:51.082007: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-25 22:52:32.438217: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-25 23:00:36.013259: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-25 23:08:53.918988: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-25 23:15:52.847157: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-25 23:22:57.039056: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-25 23:29:04.002049: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-25 23:35:15.773868: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-25 23:40:34.314467: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-25 23:46:00.285403: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-25 23:50:40.815808: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-25 23:55:29.174502: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-26 00:01:28.175766: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-26 00:07:33.048425: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-26 00:13:35.896792: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-26 00:19:44.565345: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-26 00:25:13.786792: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-26 00:30:48.479099: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-26 00:35:56.217621: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-26 00:41:09.181306: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-26 00:46:05.946170: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-26 00:51:08.820765: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-26 00:55:42.739279: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-26 01:00:22.107054: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-26 01:04:37.153862: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-26 01:08:57.678561: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-26 01:13:00.040495: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-26 01:17:07.528361: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-26 01:20:59.121799: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-26 01:24:56.108189: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-26 01:28:33.286767: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-26 01:32:14.683023: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-26 01:37:28.608429: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-26 01:42:46.007404: PROGRESSO: 20.00
+2018-10-26 01:42:46.007671: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-10-26 01:43:15.415233: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-26 01:43:52.118452: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-26 01:44:21.655365: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-26 01:44:43.776878: PROGRESSO: 25.00
+2018-10-26 01:44:43.777131: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-10-26 01:45:15.528470: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-26 01:45:53.421831: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-26 01:46:24.682632: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-26 01:46:46.955620: PROGRESSO: 30.00
+2018-10-26 01:46:46.955870: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-26 01:54:07.232093: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-26 02:01:38.788911: PROGRESSO: 35.00
+2018-10-26 02:01:38.789183: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-26 02:39:31.221079: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-26 03:17:35.928573: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-26 03:37:25.028227: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-26 03:57:26.346646: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-26 04:10:52.956193: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-26 04:24:28.412985: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-26 04:34:46.704380: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-26 04:44:53.909721: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-26 04:53:03.946994: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-26 05:01:23.114248: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-26 05:08:22.914166: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-26 05:15:27.066760: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-26 05:21:33.768853: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-26 05:27:44.701184: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-26 05:33:03.450613: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-26 05:38:28.003080: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-26 05:43:07.011802: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-26 05:47:50.746815: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-26 05:53:49.577847: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-26 05:59:53.960014: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-26 06:05:56.622109: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-26 06:12:05.175904: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-26 06:17:34.264296: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-26 06:23:08.605948: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-26 06:28:16.375639: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-26 06:33:29.573789: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-26 06:38:26.773743: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-26 06:43:29.732277: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-26 06:48:04.017371: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-26 06:52:43.235758: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-26 06:56:59.061902: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-26 07:01:20.350509: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-26 07:05:22.657273: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-26 07:09:30.184855: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-26 07:13:21.556515: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-26 07:17:18.598637: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-26 07:20:55.708683: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-26 07:24:37.340408: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-26 07:29:49.721414: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-26 07:35:07.604377: PROGRESSO: 40.00
+2018-10-26 07:35:07.604646: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-10-26 07:35:39.505596: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-26 07:36:16.474482: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-26 07:36:47.057286: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-26 07:37:09.350048: PROGRESSO: 45.00
+2018-10-26 07:37:09.350293: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-10-26 07:37:40.319928: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-26 07:38:17.703387: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-26 07:38:50.497888: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-26 07:39:12.920984: PROGRESSO: 50.00
+2018-10-26 07:39:12.921231: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-26 07:46:29.500137: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-26 07:53:50.945473: PROGRESSO: 55.00
+2018-10-26 07:53:50.945735: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-26 08:32:07.155437: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-26 09:10:27.236868: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-26 09:29:59.874268: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-26 09:50:01.313130: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-26 10:03:49.520590: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-26 10:17:37.916178: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-26 10:27:39.335504: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-26 10:37:56.722478: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-26 10:46:20.388693: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-26 10:54:49.130793: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-26 11:01:50.747441: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-26 11:09:01.086144: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-26 11:15:15.002674: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-26 11:21:28.006620: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-26 11:26:39.546045: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-26 11:31:58.861869: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-26 11:36:41.854613: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-26 11:41:28.158124: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-26 11:47:28.468498: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-26 11:53:33.131619: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-26 11:59:36.073500: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-26 12:05:43.837257: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-26 12:11:12.753753: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-26 12:16:47.512416: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-26 12:21:55.216037: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-26 12:27:08.270263: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-26 12:32:05.806151: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-26 12:37:09.707316: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-26 12:41:43.640873: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-26 12:46:22.802625: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-26 12:50:37.824544: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-26 12:54:58.183226: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-26 12:59:00.543886: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-26 13:03:08.401192: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-26 13:07:00.243297: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-26 13:10:57.865595: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-26 13:14:34.961426: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-26 13:18:17.049744: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-26 13:23:31.264315: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-26 13:28:50.300659: PROGRESSO: 60.00
+2018-10-26 13:28:50.300928: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-10-26 13:29:19.581067: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-26 13:29:56.745576: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-26 13:30:26.924084: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-26 13:30:49.087884: PROGRESSO: 65.00
+2018-10-26 13:30:49.088155: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-10-26 13:31:20.017885: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-26 13:31:57.499766: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-26 13:32:28.240035: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-26 13:32:50.500487: PROGRESSO: 70.00
+2018-10-26 13:32:50.500734: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-26 13:40:20.779356: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-26 13:47:40.401379: PROGRESSO: 75.00
+2018-10-26 13:47:40.401616: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-26 14:25:53.946002: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-26 15:04:33.073946: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-26 15:25:03.813918: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-26 15:45:04.014730: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-26 15:58:40.747102: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-26 16:12:21.074052: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-26 16:22:37.229986: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-26 16:32:58.713536: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-26 16:41:22.910543: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-26 16:49:50.019889: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-26 16:56:48.737459: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-26 17:03:53.873237: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-26 17:09:53.154933: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-26 17:15:55.466714: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-26 17:21:12.989949: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-26 17:26:37.449253: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-26 17:31:18.651033: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-26 17:36:06.045641: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-26 17:42:05.191485: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-26 17:48:09.753042: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-26 17:54:12.679314: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-26 18:00:20.586662: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-26 18:05:49.700690: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-26 18:11:24.108444: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-26 18:16:31.863386: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-26 18:21:44.784167: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-26 18:26:41.637226: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-26 18:31:44.979753: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-26 18:36:19.010929: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-26 18:40:58.542842: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-26 18:45:13.562660: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-26 18:49:34.131423: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-26 18:53:36.409581: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-26 18:57:43.903026: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-26 19:01:35.310825: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-26 19:05:32.614761: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-26 19:09:10.204147: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-26 19:12:51.780539: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-26 19:18:04.282187: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-26 19:23:22.078897: PROGRESSO: 80.00
+2018-10-26 19:23:22.079159: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0
+2018-10-26 19:23:54.461125: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0
+2018-10-26 19:24:31.291633: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -s -g 0,1
+2018-10-26 19:25:01.642159: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cuda -m -s -g 0,1
+2018-10-26 19:25:23.617771: PROGRESSO: 85.00
+2018-10-26 19:25:23.618013: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0
+2018-10-26 19:25:54.829633: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0
+2018-10-26 19:26:32.271893: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -s -g 0,1
+2018-10-26 19:27:03.478281: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p opencl -m -s -g 0,1
+2018-10-26 19:27:25.914783: PROGRESSO: 90.00
+2018-10-26 19:27:25.915031: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -s -g 0,1
+2018-10-26 19:34:44.863579: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_original -m -s -g 0,1
+2018-10-26 19:42:12.778415: PROGRESSO: 95.00
+2018-10-26 19:42:12.778673: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 1
+2018-10-26 20:20:14.356843: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 1
+2018-10-26 20:58:21.610387: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 2
+2018-10-26 21:18:26.790015: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 2
+2018-10-26 21:38:40.699067: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 3
+2018-10-26 21:52:13.256005: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 3
+2018-10-26 22:05:55.002720: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 4
+2018-10-26 22:16:17.399897: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 4
+2018-10-26 22:26:44.958024: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 5
+2018-10-26 22:35:06.740757: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 5
+2018-10-26 22:43:36.639230: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 6
+2018-10-26 22:50:33.907414: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 6
+2018-10-26 22:57:29.578278: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 7
+2018-10-26 23:03:31.921671: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 7
+2018-10-26 23:09:39.834515: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 8
+2018-10-26 23:15:01.311833: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 8
+2018-10-26 23:20:28.961269: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 9
+2018-10-26 23:25:07.591754: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 9
+2018-10-26 23:29:48.902881: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 10
+2018-10-26 23:35:47.535131: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 10
+2018-10-26 23:41:51.946187: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 11
+2018-10-26 23:47:54.697475: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 11
+2018-10-26 23:54:02.805990: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 12
+2018-10-26 23:59:31.902769: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 12
+2018-10-27 00:05:06.276858: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 13
+2018-10-27 00:10:14.108659: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 13
+2018-10-27 00:15:27.641538: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 14
+2018-10-27 00:20:24.766279: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 14
+2018-10-27 00:25:27.510726: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 15
+2018-10-27 00:30:01.339427: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 15
+2018-10-27 00:34:40.788120: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 16
+2018-10-27 00:38:55.707079: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 16
+2018-10-27 00:43:16.075381: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 17
+2018-10-27 00:47:18.475540: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 17
+2018-10-27 00:51:25.992305: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 18
+2018-10-27 00:55:17.382797: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 18
+2018-10-27 00:59:14.147272: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 19
+2018-10-27 01:02:51.161910: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 19
+2018-10-27 01:06:32.722335: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -s -g 0,1 -w 20
+2018-10-27 01:11:45.483065: CMD: -c -i /home/charles/dataset/linux/linux.tar -o temp.lz -p cpu_sequential -m -s -g 0,1 -w 20
+2018-10-27 01:17:02.680194: PROGRESSO: 100.00
+2018-11-07 20:19:24.516232: Dataset a
+2018-11-07 20:19:24.516772: Repetitions 1
+2018-11-07 20:19:24.517769: An error ocurred: object of type 'int' has no len()
+2018-11-07 20:19:25.519213: Trying again for 1 time
+2018-11-07 20:19:25.519561: An error ocurred: object of type 'int' has no len()
+2018-11-07 20:19:26.521111: Trying again for 2 time
+2018-11-07 20:19:26.521498: An error ocurred: object of type 'int' has no len()
+2018-11-07 20:20:23.735390: Dataset a
+2018-11-07 20:20:23.735505: Repetitions 1
+2018-11-07 20:20:23.736090: PROGRESSO: 25.00
+2018-11-07 20:20:23.736225: PROGRESSO: 50.00
+2018-11-07 20:20:23.736310: PROGRESSO: 75.00
+2018-11-07 20:20:23.736358: PROGRESSO: 100.00
+2018-11-07 20:27:57.831317: Dataset a
+2018-11-07 20:27:57.831422: Repetitions 1
+2018-11-07 20:27:57.831918: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 
+2018-11-07 20:27:57.832042: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 
+2018-11-07 20:27:57.842660: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:27:57.842886: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:27:57.850829: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:27:57.850963: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:27:57.857937: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:27:57.858070: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:27:57.865169: PROGRESSO: 25.00
+2018-11-07 20:27:57.865282: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 
+2018-11-07 20:27:57.865367: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 
+2018-11-07 20:27:57.872432: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:27:57.872547: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:27:57.880517: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:27:57.880612: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:27:57.887547: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:27:57.887674: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:27:57.895286: PROGRESSO: 50.00
+2018-11-07 20:27:57.895395: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:27:57.895460: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:27:57.902183: PROGRESSO: 75.00
+2018-11-07 20:27:57.902430: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 1
+2018-11-07 20:27:57.902539: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 1
+2018-11-07 20:27:57.910512: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 2
+2018-11-07 20:27:57.910610: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 2
+2018-11-07 20:27:57.917407: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 3
+2018-11-07 20:27:57.917534: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 3
+2018-11-07 20:27:57.924865: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 4
+2018-11-07 20:27:57.924975: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 4
+2018-11-07 20:27:57.932032: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 5
+2018-11-07 20:27:57.932119: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 5
+2018-11-07 20:27:57.938977: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 6
+2018-11-07 20:27:57.939072: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 6
+2018-11-07 20:27:57.947097: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 7
+2018-11-07 20:27:57.947186: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 7
+2018-11-07 20:27:57.954245: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 8
+2018-11-07 20:27:57.954367: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 8
+2018-11-07 20:27:57.961831: PROGRESSO: 100.00
+2018-11-07 20:28:16.895085: Dataset a
+2018-11-07 20:28:16.895282: Repetitions 1
+2018-11-07 20:28:16.896286: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:28:16.896567: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:28:16.905531: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:28:16.905696: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:28:16.914642: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:28:16.914738: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:28:16.921745: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:28:16.922003: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:28:16.931535: An error ocurred: list index out of range
+2018-11-07 20:28:17.932967: Trying again for 1 time
+2018-11-07 20:28:17.933327: An error ocurred: list index out of range
+2018-11-07 20:28:24.181448: Dataset a
+2018-11-07 20:28:24.181579: Repetitions 1
+2018-11-07 20:28:24.182101: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 
+2018-11-07 20:28:24.182227: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 
+2018-11-07 20:28:24.192256: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:28:24.192392: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:28:24.200007: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:28:24.200172: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:28:24.207827: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:28:24.207921: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:28:24.215165: PROGRESSO: 25.00
+2018-11-07 20:28:24.215282: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 
+2018-11-07 20:28:24.215347: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 
+2018-11-07 20:28:24.223059: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:28:24.223159: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:28:24.229921: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:28:24.230160: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:28:24.238567: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:28:24.238726: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:28:24.245528: PROGRESSO: 50.00
+2018-11-07 20:28:24.245657: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:28:24.245723: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:28:24.253705: PROGRESSO: 75.00
+2018-11-07 20:28:24.254132: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 1
+2018-11-07 20:28:24.254260: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 1
+2018-11-07 20:28:24.260965: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 2
+2018-11-07 20:28:24.261105: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 2
+2018-11-07 20:28:24.268798: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 3
+2018-11-07 20:28:24.268915: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 3
+2018-11-07 20:28:24.275979: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 4
+2018-11-07 20:28:24.276076: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 4
+2018-11-07 20:28:24.285767: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 5
+2018-11-07 20:28:24.285896: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 5
+2018-11-07 20:28:24.292918: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 6
+2018-11-07 20:28:24.293008: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 6
+2018-11-07 20:28:24.299711: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 7
+2018-11-07 20:28:24.299815: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 7
+2018-11-07 20:28:24.306689: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 8
+2018-11-07 20:28:24.306780: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 8
+2018-11-07 20:28:24.313647: PROGRESSO: 100.00
+2018-11-07 20:28:55.736918: Dataset a
+2018-11-07 20:28:55.737050: Repetitions 1
+2018-11-07 20:28:55.737638: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 
+2018-11-07 20:28:55.737775: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 
+2018-11-07 20:28:55.747075: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:28:55.747234: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:28:55.754674: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:28:55.754828: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:28:55.763060: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:28:55.763171: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:28:55.769932: PROGRESSO: 25.00
+2018-11-07 20:28:55.770120: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 
+2018-11-07 20:28:55.770243: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 
+2018-11-07 20:28:55.777291: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:28:55.777400: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:28:55.784369: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:28:55.784492: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:28:55.792285: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:28:55.792644: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:28:55.799986: PROGRESSO: 50.00
+2018-11-07 20:28:55.800105: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:28:55.800168: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:28:55.809626: PROGRESSO: 75.00
+2018-11-07 20:28:55.809923: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 1
+2018-11-07 20:28:55.809992: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 1
+2018-11-07 20:28:55.816776: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 2
+2018-11-07 20:28:55.816952: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 2
+2018-11-07 20:28:55.824368: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 3
+2018-11-07 20:28:55.824492: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 3
+2018-11-07 20:28:55.831761: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 4
+2018-11-07 20:28:55.831852: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 4
+2018-11-07 20:28:55.839020: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 5
+2018-11-07 20:28:55.839110: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 5
+2018-11-07 20:28:55.848295: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 6
+2018-11-07 20:28:55.848387: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 6
+2018-11-07 20:28:55.855860: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 7
+2018-11-07 20:28:55.856157: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 7
+2018-11-07 20:28:55.865494: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 8
+2018-11-07 20:28:55.865781: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 8
+2018-11-07 20:28:55.874035: PROGRESSO: 100.00
+2018-11-07 20:30:26.839292: Dataset a
+2018-11-07 20:30:26.839432: Repetitions 1
+2018-11-07 20:30:26.839960: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:30:26.840088: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:30:26.849725: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:30:26.849843: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:30:26.857054: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:30:26.857282: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:30:26.865721: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:30:26.865823: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:30:26.872737: An error ocurred: list index out of range
+2018-11-07 20:30:27.874114: Trying again for 1 time
+2018-11-07 20:30:27.874451: An error ocurred: list index out of range
+2018-11-07 20:30:28.875966: Trying again for 2 time
+2018-11-07 20:30:28.876322: An error ocurred: list index out of range
+2018-11-07 20:30:29.877847: Trying again for 3 time
+2018-11-07 20:30:29.878203: An error ocurred: list index out of range
+2018-11-07 20:30:40.620672: Dataset a
+2018-11-07 20:30:40.620789: Repetitions 1
+2018-11-07 20:30:40.621309: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 
+2018-11-07 20:30:40.621447: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 
+2018-11-07 20:30:40.629997: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:30:40.630139: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:30:40.637826: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:30:40.637916: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:30:40.644950: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:30:40.645206: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:30:40.653191: PROGRESSO: 25.00
+2018-11-07 20:30:40.653300: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 
+2018-11-07 20:30:40.653373: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 
+2018-11-07 20:30:40.660378: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:30:40.660544: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:30:40.668757: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:30:40.668956: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:30:40.675772: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:30:40.675909: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:30:40.683534: PROGRESSO: 50.00
+2018-11-07 20:30:40.683662: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:30:40.683725: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:30:40.690802: PROGRESSO: 75.00
+2018-11-07 20:30:40.690914: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 1
+2018-11-07 20:30:40.690981: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 1
+2018-11-07 20:30:40.698276: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 2
+2018-11-07 20:30:40.698673: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 2
+2018-11-07 20:30:40.706611: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 3
+2018-11-07 20:30:40.706698: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 3
+2018-11-07 20:30:40.713948: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 4
+2018-11-07 20:30:40.714041: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 4
+2018-11-07 20:30:40.721806: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 5
+2018-11-07 20:30:40.721899: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 5
+2018-11-07 20:30:40.730982: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 6
+2018-11-07 20:30:40.731271: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 6
+2018-11-07 20:30:40.740802: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 7
+2018-11-07 20:30:40.741079: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 7
+2018-11-07 20:30:40.748994: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 8
+2018-11-07 20:30:40.749165: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 8
+2018-11-07 20:30:40.756375: PROGRESSO: 100.00
+2018-11-07 20:32:10.372130: Dataset a
+2018-11-07 20:32:10.372249: Repetitions 1
+2018-11-07 20:32:10.372833: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:32:10.372936: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:32:10.381593: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:32:10.381704: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:32:10.389466: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:32:10.389587: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:32:10.396660: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:32:10.396811: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:32:10.404634: PROGRESSO: 25.00
+2018-11-07 20:32:10.404817: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:32:10.404885: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:32:10.412976: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:32:10.413073: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:32:10.420454: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:32:10.421281: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:32:10.428502: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:32:10.428591: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:32:10.435464: PROGRESSO: 50.00
+2018-11-07 20:32:10.435669: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:32:10.435754: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:32:10.443842: PROGRESSO: 75.00
+2018-11-07 20:32:10.443953: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 1
+2018-11-07 20:32:10.444017: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 1
+2018-11-07 20:32:10.450848: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 2
+2018-11-07 20:32:10.451045: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 2
+2018-11-07 20:32:10.458690: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 3
+2018-11-07 20:32:10.458779: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 3
+2018-11-07 20:32:10.465593: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 4
+2018-11-07 20:32:10.465718: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 4
+2018-11-07 20:32:10.473429: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 5
+2018-11-07 20:32:10.473834: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 5
+2018-11-07 20:32:10.480634: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 6
+2018-11-07 20:32:10.480756: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 6
+2018-11-07 20:32:10.488423: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 7
+2018-11-07 20:32:10.488550: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 7
+2018-11-07 20:32:10.495974: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 8
+2018-11-07 20:32:10.496068: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 8
+2018-11-07 20:32:10.503766: PROGRESSO: 100.00
+2018-11-07 20:33:52.511551: Dataset a
+2018-11-07 20:33:52.511667: Repetitions 1
+2018-11-07 20:33:52.512200: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0
+2018-11-07 20:33:52.512349: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:33:52.521292: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:33:52.521415: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:33:52.529040: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:33:52.529133: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:33:52.536729: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:33:52.536819: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:33:52.543466: PROGRESSO: 25.00
+2018-11-07 20:33:52.543572: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0
+2018-11-07 20:33:52.543638: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:33:52.550697: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:33:52.550793: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:33:52.557590: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:33:52.557697: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:33:52.565367: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:33:52.565850: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:33:52.573295: PROGRESSO: 50.00
+2018-11-07 20:33:52.573404: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:33:52.573469: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:33:52.583205: PROGRESSO: 75.00
+2018-11-07 20:33:52.583368: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:33:52.583437: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:33:52.591438: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:33:52.591527: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:33:52.600091: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:33:52.600395: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:33:52.608400: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:33:52.608528: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:33:52.616455: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:33:52.616686: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:33:52.624653: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:33:52.624761: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:33:52.633644: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:33:52.633999: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:33:52.642041: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:33:52.642146: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/a -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:33:52.650650: PROGRESSO: 100.00
+2018-11-07 20:44:52.261089: Dataset linux
+2018-11-07 20:44:52.261219: Repetitions 2
+2018-11-07 20:44:52.261822: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0
+2018-11-07 20:44:52.261917: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:44:52.271493: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:44:52.271636: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:44:52.279754: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:44:52.279908: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:44:52.287896: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:44:52.288029: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:44:52.297393: PROGRESSO: 12.50
+2018-11-07 20:44:52.297545: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0
+2018-11-07 20:44:52.297653: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:44:52.306333: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:44:52.307064: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:44:52.315185: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:44:52.315275: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:44:52.322800: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:44:52.323026: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:44:52.330719: PROGRESSO: 25.00
+2018-11-07 20:44:52.330821: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:44:52.330884: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:44:52.338965: PROGRESSO: 37.50
+2018-11-07 20:44:52.339265: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.339516: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.348895: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.348987: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.361059: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.361148: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.368862: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.368995: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.377766: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.377853: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.385425: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.385604: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.395385: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.395653: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.406014: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.406281: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.415198: PROGRESSO: 50.00
+2018-11-07 20:44:52.415528: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0
+2018-11-07 20:44:52.415756: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:44:52.425284: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:44:52.425470: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:44:52.433967: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:44:52.434116: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:44:52.442076: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:44:52.442236: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:44:52.450180: PROGRESSO: 62.50
+2018-11-07 20:44:52.450360: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0
+2018-11-07 20:44:52.450485: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:44:52.458702: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:44:52.459049: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:44:52.467186: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:44:52.467339: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:44:52.475273: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:44:52.475477: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:44:52.483203: PROGRESSO: 75.00
+2018-11-07 20:44:52.483374: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:44:52.483491: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:44:52.491745: PROGRESSO: 87.50
+2018-11-07 20:44:52.492254: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.492516: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.501474: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.501625: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.509960: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.510123: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.517642: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.517776: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.525252: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.525625: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.533518: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.533668: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.542562: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.543037: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.551576: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.551733: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.561295: PROGRESSO: 100.00
+2018-11-07 20:44:52.608256: Dataset silesia
+2018-11-07 20:44:52.608375: Repetitions 2
+2018-11-07 20:44:52.608937: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0
+2018-11-07 20:44:52.609084: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:44:52.618641: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:44:52.618764: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:44:52.628325: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:44:52.628474: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:44:52.636501: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:44:52.636715: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:44:52.645774: PROGRESSO: 12.50
+2018-11-07 20:44:52.645884: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0
+2018-11-07 20:44:52.645948: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:44:52.653673: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:44:52.653770: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:44:52.662585: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:44:52.662674: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:44:52.670264: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:44:52.670366: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:44:52.678855: PROGRESSO: 25.00
+2018-11-07 20:44:52.678961: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:44:52.679025: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:44:52.686795: PROGRESSO: 37.50
+2018-11-07 20:44:52.686915: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.686981: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.694666: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.694762: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.701752: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.701900: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.709491: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.709587: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.716399: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.716507: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.723804: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.723922: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.730928: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.731025: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.738111: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.738202: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.745751: PROGRESSO: 50.00
+2018-11-07 20:44:52.745864: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0
+2018-11-07 20:44:52.745928: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:44:52.753105: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:44:52.753216: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:44:52.760832: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:44:52.760921: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:44:52.767740: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:44:52.767902: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:44:52.775906: PROGRESSO: 62.50
+2018-11-07 20:44:52.776172: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0
+2018-11-07 20:44:52.776237: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:44:52.783282: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:44:52.783380: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:44:52.791261: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:44:52.791544: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:44:52.800066: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:44:52.800177: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:44:52.808599: PROGRESSO: 75.00
+2018-11-07 20:44:52.809031: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:44:52.809194: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:44:52.816579: PROGRESSO: 87.50
+2018-11-07 20:44:52.816783: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.816857: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:44:52.825222: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.825783: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:44:52.833507: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.833625: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:44:52.841947: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.842355: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:44:52.849742: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.849861: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:44:52.858118: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.858469: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:44:52.866083: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.866210: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:44:52.874131: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.874318: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:44:52.882028: PROGRESSO: 100.00

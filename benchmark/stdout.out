@@ -1,0 +1,144 @@
+0
+Dataset ../data/CreditBackup80.BAK
+Repetitions 5
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 6.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 13.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 20.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 26.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 33.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 40.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 46.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 53.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 60.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 66.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 73.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 80.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 86.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 93.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 100.00
+0
+Dataset ../data/silesia.tar
+Repetitions 5
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 6.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 13.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 20.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 26.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 33.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 40.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 46.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 53.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 60.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 66.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 73.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 80.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 86.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 93.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 100.00
+0
+Dataset ../data/linux-4.16-rc4.tar
+Repetitions 5
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 6.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 13.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 20.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 26.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 33.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 40.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 46.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 53.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 60.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 66.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 73.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 80.00
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m -s -g 0
+PROGRESSO: 86.67
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m -s -g 0
+PROGRESSO: 93.33
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -s -g 0
+CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m -s -g 0
+PROGRESSO: 100.00

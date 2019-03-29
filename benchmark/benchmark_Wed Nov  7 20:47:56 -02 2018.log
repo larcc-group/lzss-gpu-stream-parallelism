@@ -1,0 +1,156 @@
+2018-11-07 20:47:52.108426: Dataset linux
+2018-11-07 20:47:52.108555: Repetitions 2
+2018-11-07 20:47:52.113685: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0
+2018-11-07 20:47:52.113770: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:47:52.123706: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:47:52.123845: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:47:52.130762: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:47:52.130948: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:47:52.140429: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:47:52.140522: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:47:52.146967: PROGRESSO: 12.50
+2018-11-07 20:47:52.147071: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0
+2018-11-07 20:47:52.147135: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:47:52.153941: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:47:52.154040: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:47:52.160755: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:47:52.160885: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:47:52.168934: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:47:52.169396: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:47:52.176157: PROGRESSO: 25.00
+2018-11-07 20:47:52.176268: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:47:52.176333: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:47:52.183734: PROGRESSO: 37.50
+2018-11-07 20:47:52.183894: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.183962: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.190722: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.190805: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.198598: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.198788: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.207179: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.207309: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.214195: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.214346: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.222273: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.222362: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.229251: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.229517: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.237020: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.237113: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.243568: PROGRESSO: 50.00
+2018-11-07 20:47:52.243706: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0
+2018-11-07 20:47:52.243773: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:47:52.251440: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:47:52.251721: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:47:52.260368: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:47:52.260637: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:47:52.268623: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:47:52.268880: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:47:52.277068: PROGRESSO: 62.50
+2018-11-07 20:47:52.277309: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0
+2018-11-07 20:47:52.277495: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:47:52.286860: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:47:52.286988: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:47:52.294135: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:47:52.294258: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:47:52.301564: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:47:52.301695: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:47:52.308525: PROGRESSO: 75.00
+2018-11-07 20:47:52.308656: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:47:52.308734: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:47:52.317821: PROGRESSO: 87.50
+2018-11-07 20:47:52.318662: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.319035: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.325799: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.325923: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.333608: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.333832: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.342221: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.342315: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.349489: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.349737: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.357452: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.357548: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.365796: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.365951: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.373875: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.374045: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/linux -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.381060: PROGRESSO: 100.00
+2018-11-07 20:47:52.431608: Dataset silesia
+2018-11-07 20:47:52.431754: Repetitions 2
+2018-11-07 20:47:52.432424: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0
+2018-11-07 20:47:52.433118: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:47:52.442913: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:47:52.443070: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:47:52.450683: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:47:52.450778: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:47:52.458031: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:47:52.458125: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:47:52.465137: PROGRESSO: 12.50
+2018-11-07 20:47:52.465316: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0
+2018-11-07 20:47:52.465506: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:47:52.473388: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:47:52.473478: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:47:52.480465: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:47:52.480564: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:47:52.488282: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:47:52.488449: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:47:52.495333: PROGRESSO: 25.00
+2018-11-07 20:47:52.495524: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:47:52.495607: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:47:52.504195: PROGRESSO: 37.50
+2018-11-07 20:47:52.504590: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.504757: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.511851: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.512102: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.520832: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.521112: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.529515: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.529793: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.537733: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.537978: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.545711: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.545890: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.554212: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.554366: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.561395: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.561536: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.568738: PROGRESSO: 50.00
+2018-11-07 20:47:52.568929: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0
+2018-11-07 20:47:52.569069: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0
+2018-11-07 20:47:52.576506: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1
+2018-11-07 20:47:52.576631: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1
+2018-11-07 20:47:52.585276: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2
+2018-11-07 20:47:52.585695: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2
+2018-11-07 20:47:52.593045: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -s -g 0,1,2,3
+2018-11-07 20:47:52.593176: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cuda -m -s -g 0,1,2,3
+2018-11-07 20:47:52.600242: PROGRESSO: 62.50
+2018-11-07 20:47:52.600562: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0
+2018-11-07 20:47:52.600636: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0
+2018-11-07 20:47:52.607371: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1
+2018-11-07 20:47:52.607474: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1
+2018-11-07 20:47:52.614411: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2
+2018-11-07 20:47:52.614507: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2
+2018-11-07 20:47:52.622270: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -s -g 0,1,2,3
+2018-11-07 20:47:52.622359: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p opencl -m -s -g 0,1,2,3
+2018-11-07 20:47:52.629303: PROGRESSO: 75.00
+2018-11-07 20:47:52.629624: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -s -g 0,1,2,3
+2018-11-07 20:47:52.629767: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_original -m -s -g 0,1,2,3
+2018-11-07 20:47:52.637550: PROGRESSO: 87.50
+2018-11-07 20:47:52.637745: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.637847: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 10
+2018-11-07 20:47:52.644749: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.644920: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 20
+2018-11-07 20:47:52.652569: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.652666: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 30
+2018-11-07 20:47:52.659960: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.660069: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 40
+2018-11-07 20:47:52.667998: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.668336: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 50
+2018-11-07 20:47:52.675305: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.675403: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 60
+2018-11-07 20:47:52.683096: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.683265: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 70
+2018-11-07 20:47:52.690451: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.690543: CMD: -c -i /home/charles/Documentos/larcc/tcc-charles/lzss/benchmark/silesia -o temp.lz -p cpu_sequential -m -s -g 0,1,2,3 -w 80
+2018-11-07 20:47:52.697048: PROGRESSO: 100.00

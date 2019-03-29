@@ -1,0 +1,7 @@
+select plan ,dataset,AVG(total_time), avg(compress_ratio),avg(input_processing),count(*) from result GROUP BY plan,dataset
+
+
+
+select plan ,dataset,AVG(total_time), avg(compress_ratio),avg(input_processing),avg(finding_match),count(*) from result 
+where mode = 'memory'
+GROUP BY plan,dataset

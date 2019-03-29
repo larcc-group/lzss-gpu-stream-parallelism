@@ -1,0 +1,18 @@
+*.dat
+*.zip
+*.dat2
+*.txt.zip
+*.tar
+*.gz
+*.lz2
+*.txt3
+linux-4.16-rc4
+*.lz
+*.txt
+*.zip2
+<<<<<<< HEAD
+*.dat.zip
+*.BAK
+=======
+*.dat.zip
+>>>>>>> da9481fe8ab4a02c2ec3b052939146fa45da152d

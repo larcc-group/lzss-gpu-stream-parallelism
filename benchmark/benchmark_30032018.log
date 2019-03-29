@@ -1,0 +1,141 @@
+2018-03-30 11:17:01.860154: Dataset ../data/CreditBackup80.BAK
+2018-03-30 11:17:01.860232: Repetitions 5
+2018-03-30 11:17:16.531934: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda
+2018-03-30 11:17:26.385704: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m
+2018-03-30 11:17:26.679809: PROGRESSO: 6.67
+2018-03-30 11:17:41.686969: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl
+2018-03-30 11:17:51.860787: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m
+2018-03-30 11:17:52.158239: PROGRESSO: 13.33
+2018-03-30 11:22:43.938558: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original
+2018-03-30 11:27:33.121301: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m
+2018-03-30 11:27:33.383915: PROGRESSO: 20.00
+2018-03-30 11:27:47.787087: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda
+2018-03-30 11:27:57.529470: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m
+2018-03-30 11:27:57.828130: PROGRESSO: 26.67
+2018-03-30 11:28:12.774564: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl
+2018-03-30 11:28:22.886906: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m
+2018-03-30 11:28:23.189669: PROGRESSO: 33.33
+2018-03-30 11:33:14.992758: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original
+2018-03-30 11:38:04.093118: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m
+2018-03-30 11:38:04.356558: PROGRESSO: 40.00
+2018-03-30 11:38:18.763999: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda
+2018-03-30 11:38:28.508589: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m
+2018-03-30 11:38:28.776449: PROGRESSO: 46.67
+2018-03-30 11:38:43.687859: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl
+2018-03-30 11:38:53.796223: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m
+2018-03-30 11:38:54.096294: PROGRESSO: 53.33
+2018-03-30 11:43:45.825054: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original
+2018-03-30 11:48:34.895502: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m
+2018-03-30 11:48:35.154885: PROGRESSO: 60.00
+2018-03-30 11:48:49.555055: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda
+2018-03-30 11:48:59.300722: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m
+2018-03-30 11:48:59.582650: PROGRESSO: 66.67
+2018-03-30 11:49:14.512959: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl
+2018-03-30 11:49:24.603253: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m
+2018-03-30 11:49:24.885687: PROGRESSO: 73.33
+2018-03-30 11:54:16.699981: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original
+2018-03-30 11:59:05.784083: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m
+2018-03-30 11:59:06.036586: PROGRESSO: 80.00
+2018-03-30 11:59:20.501245: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda
+2018-03-30 11:59:30.242541: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cuda -m
+2018-03-30 11:59:30.514167: PROGRESSO: 86.67
+2018-03-30 11:59:45.453360: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl
+2018-03-30 11:59:55.545589: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p opencl -m
+2018-03-30 11:59:55.825521: PROGRESSO: 93.33
+2018-03-30 12:04:47.753042: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original
+2018-03-30 12:09:36.889462: CMD: -c -i /home/dalvan/stream_applications/lzss/data/CreditBackup80.BAK -o ./temp.lz -p cpu_original -m
+2018-03-30 12:09:37.143438: PROGRESSO: 100.00
+2018-03-30 12:09:37.172602: Dataset ../data/silesia.tar
+2018-03-30 12:09:37.172657: Repetitions 5
+2018-03-30 12:09:54.394811: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda
+2018-03-30 12:10:05.620654: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m
+2018-03-30 12:10:05.889684: PROGRESSO: 6.67
+2018-03-30 12:10:23.670032: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl
+2018-03-30 12:10:35.296751: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m
+2018-03-30 12:10:35.561247: PROGRESSO: 13.33
+2018-03-30 12:16:39.806825: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original
+2018-03-30 12:22:40.489724: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 12:22:40.738673: PROGRESSO: 20.00
+2018-03-30 12:22:57.960873: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda
+2018-03-30 12:23:09.190998: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m
+2018-03-30 12:23:09.451512: PROGRESSO: 26.67
+2018-03-30 12:23:27.254093: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl
+2018-03-30 12:23:38.865608: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m
+2018-03-30 12:23:39.147984: PROGRESSO: 33.33
+2018-03-30 12:29:43.400485: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original
+2018-03-30 12:35:44.160967: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 12:35:44.416899: PROGRESSO: 40.00
+2018-03-30 12:36:01.634859: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda
+2018-03-30 12:36:12.857441: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m
+2018-03-30 12:36:13.138126: PROGRESSO: 46.67
+2018-03-30 12:36:30.954106: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl
+2018-03-30 12:36:42.568192: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m
+2018-03-30 12:36:42.834713: PROGRESSO: 53.33
+2018-03-30 12:42:47.085213: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original
+2018-03-30 12:48:47.917960: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 12:48:48.170411: PROGRESSO: 60.00
+2018-03-30 12:49:05.404129: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda
+2018-03-30 12:49:16.625877: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m
+2018-03-30 12:49:16.908261: PROGRESSO: 66.67
+2018-03-30 12:49:34.724643: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl
+2018-03-30 12:49:46.317226: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m
+2018-03-30 12:49:46.588068: PROGRESSO: 73.33
+2018-03-30 12:55:51.116183: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original
+2018-03-30 13:01:51.955227: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 13:01:52.249010: PROGRESSO: 80.00
+2018-03-30 13:02:09.501921: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda
+2018-03-30 13:02:20.731731: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cuda -m
+2018-03-30 13:02:20.995073: PROGRESSO: 86.67
+2018-03-30 13:02:38.782515: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl
+2018-03-30 13:02:50.408429: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p opencl -m
+2018-03-30 13:02:50.675119: PROGRESSO: 93.33
+2018-03-30 13:08:55.214954: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original
+2018-03-30 13:14:56.128689: CMD: -c -i /home/dalvan/stream_applications/lzss/data/silesia.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 13:14:56.394275: PROGRESSO: 100.00
+2018-03-30 13:14:56.422918: Dataset ../data/linux-4.16-rc4.tar
+2018-03-30 13:14:56.422973: Repetitions 5
+2018-03-30 13:15:53.626478: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda
+2018-03-30 13:16:26.433612: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m
+2018-03-30 13:16:26.699692: PROGRESSO: 6.67
+2018-03-30 13:17:22.880632: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl
+2018-03-30 13:17:57.008054: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m
+2018-03-30 13:17:57.296591: PROGRESSO: 13.33
+2018-03-30 13:33:48.111144: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original
+2018-03-30 13:49:26.527391: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 13:49:26.815496: PROGRESSO: 20.00
+2018-03-30 13:50:21.213545: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda
+2018-03-30 13:50:54.038005: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m
+2018-03-30 13:50:54.336370: PROGRESSO: 26.67
+2018-03-30 13:51:50.520258: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl
+2018-03-30 13:52:24.630415: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m
+2018-03-30 13:52:24.941530: PROGRESSO: 33.33
+2018-03-30 14:08:15.702917: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original
+2018-03-30 14:23:54.204133: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 14:23:54.494056: PROGRESSO: 40.00
+2018-03-30 14:24:48.883117: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda
+2018-03-30 14:25:21.696088: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m
+2018-03-30 14:25:21.973103: PROGRESSO: 46.67
+2018-03-30 14:26:18.106758: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl
+2018-03-30 14:26:52.238313: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m
+2018-03-30 14:26:52.512084: PROGRESSO: 53.33
+2018-03-30 14:42:43.290270: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original
+2018-03-30 14:58:21.984573: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 14:58:22.239150: PROGRESSO: 60.00
+2018-03-30 14:59:18.339568: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda
+2018-03-30 14:59:51.171479: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m
+2018-03-30 14:59:51.443738: PROGRESSO: 66.67
+2018-03-30 15:00:47.597306: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl
+2018-03-30 15:01:21.760642: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m
+2018-03-30 15:01:22.049670: PROGRESSO: 73.33
+2018-03-30 15:17:13.215316: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original
+2018-03-30 15:32:51.623170: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 15:32:51.902482: PROGRESSO: 80.00
+2018-03-30 15:33:46.266047: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda
+2018-03-30 15:34:19.105612: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cuda -m
+2018-03-30 15:34:19.373691: PROGRESSO: 86.67
+2018-03-30 15:35:15.540448: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl
+2018-03-30 15:35:49.648289: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p opencl -m
+2018-03-30 15:35:49.937563: PROGRESSO: 93.33
+2018-03-30 15:51:40.594560: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original
+2018-03-30 16:07:18.949424: CMD: -c -i /home/dalvan/stream_applications/lzss/data/linux-4.16-rc4.tar -o ./temp.lz -p cpu_original -m
+2018-03-30 16:07:19.234291: PROGRESSO: 100.00
